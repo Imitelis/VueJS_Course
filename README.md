@@ -12,9 +12,9 @@ Thanks to Max for this course. I recommend it if you want to learn vue in detail
 
 ### 1 - Getting Started  <a href="https://github.com/Dasaavawar/VueJS_Course/tree/main/VueJS_01_Getting_Started">(Go)</a>
 
-- 1. Example 01 
-- 2. Example 02
-- 3. Local VueJS
+- Example 01 
+- Example 02
+- Local VueJS
 
 ### 2 - Using Vue to interact with the DOM <a href="https://github.com/Dasaavawar/VueJS_Course/tree/main/VueJS_02_Using_Vue_to_interact_with_the_DOM">(Go)</a>
 
