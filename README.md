@@ -71,11 +71,11 @@ Thanks to Max for this course. I recommend it if you want to learn vue in detail
 - Lesson 08 - Using components
 - Lesson 09 - The VueJS Instance Lifecycle in practice
 
-### 6 - Moving to a "Real" Development Workflow with Webpack and Vue CLI <a href="https://github.com/pachoyan/VueJsCourse/tree/master/6-Moving%20to%20a%20%22Real%22%20Development%20Workflow%20with%20Webpack%20and%20Vue%20CLI">(Go)</a>
+### 6 - Moving to a "Real" Development Workflow with Webpack and Vue CLI <a href="https://github.com/Dasaavawar/VueJS_Course/tree/main/VueJS_06_Moving_to_a_%22Real%22_Development_Workflow_with_Webpack_and_Vue-CLI/vue-cli">(Go)</a>
 
 - vue-cli
 
-### 7 - An Introduction to Components <a href="https://github.com/pachoyan/VueJsCourse/tree/master/7-An%20Introduction%20to%20Components">(Go)</a>
+### 7 - An Introduction to Components <a href="https://github.com/Dasaavawar/VueJS_Course/tree/main/VueJS_07_An_Introduction_to_Components">(Go)</a>
 
 - Lesson 01 - An Introduction to Components
 - Lesson 02 - Storing data in components
@@ -87,7 +87,7 @@ Thanks to Max for this course. I recommend it if you want to learn vue in detail
 - Lesson 08 - Scoping Component Styles
 - Exercise 01
 
-### 8 - Communicating between components <a href="https://github.com/pachoyan/VueJsCourse/tree/master/8-Communicating%20between%20components">(Go)</a>
+### 8 - Communicating between components <a href="https://github.com/Dasaavawar/VueJS_Course/tree/main/VueJS_08_Communicating_between_components">(Go)</a>
 
 - Lesson 01 - Using Props for Parent => Child Communication
 - Lesson 02 - Naming props
@@ -101,7 +101,7 @@ Thanks to Max for this course. I recommend it if you want to learn vue in detail
 - Exercise 01 - My Solution
 - Exercise 01 -Teacher Solution
 
-### 9 - Advanced Component Usage <a href="https://github.com/pachoyan/VueJsCourse/tree/master/9-Advanced%20Component%20Usage">(Go)</a>
+### 9 - Advanced Component Usage <a href="https://github.com/Dasaavawar/VueJS_Course/tree/main/VueJS_09_Advanced_Component_Usage">(Go)</a>
 
 - Lesson 01 - Setting up the Module Project
 - Lesson 02 - Passing Content - The Suboptimal Solution
@@ -115,11 +115,11 @@ Thanks to Max for this course. I recommend it if you want to learn vue in detail
 - Lesson 10 - Dynamic Component Lifecycle Hooks
 - Exercise 01
 
-### 10 - Second Course Project - Wonderful Quotes <a href="https://github.com/pachoyan/VueJsCourse/tree/master/10-Second%20Course%20Project%20-%20Wonderful%20Quotes">(Go)</a>
+### 10 - Second Course Project - Wonderful Quotes <a href="https://github.com/Dasaavawar/VueJS_Course/tree/main/VueJS_10_Second_Course_Project_Wonderful_Quotes">(Go)</a>
 
 - Setup
 
-### 11 - Handling User Input with Forms <a href="https://github.com/pachoyan/VueJsCourse/tree/master/11-Handling%20User%20Input%20with%20Forms">(Go)</a>
+### 11 - Handling User Input with Forms <a href="https://github.com/Dasaavawar/VueJS_Course/tree/main/VueJS_11_Handling_User_Input_with_Forms">(Go)</a>
 
 - Lesson 01 - A Basic input Form Binding
 - Lesson 02 - Grouping Data and Pre-Populating Inputs
@@ -133,7 +133,7 @@ Thanks to Max for this course. I recommend it if you want to learn vue in detail
 - Exercise 01 - My Solution
 - Exercise 01 - Teacher Solution
 
-### 12 - Using and Creating Directives <a href="https://github.com/pachoyan/VueJsCourse/tree/master/12-Using%20and%20Creating%20Directives">(Go)</a>
+### 12 - Using and Creating Directives <a href="https://github.com/Dasaavawar/VueJS_Course/tree/main/VueJS_12_Using_and_Creating_Directives">(Go)</a>
 
 - Lesson 01 - Understanding Directives
 - Lesson 02 - How Directives Work - Hook Functions
@@ -147,7 +147,7 @@ Thanks to Max for this course. I recommend it if you want to learn vue in detail
 - Exercise 01 - My Solution
 - Exercise 01 - Teacher Solution
 
-### 13 - Improving your App with Filters and Mixins <a href="https://github.com/pachoyan/VueJsCourse/tree/master/13-Improving%20your%20App%20with%20Filters%20and%20Mixins">(Go)</a>
+### 13 - Improving your App with Filters and Mixins <a href="https://github.com/Dasaavawar/VueJS_Course/tree/main/VueJS_13_Improving_your_App_with_Filters_and_Mixins">(Go)</a>
 
 - Lesson 01 - Creating a Local Filte
 - Lesson 02 - Global Filters and How to Chain Multiple Filters
@@ -158,7 +158,7 @@ Thanks to Max for this course. I recommend it if you want to learn vue in detail
 - Lesson 07 - Mixins and Scope
 - Exercise 01
 
-### 14 - Adding Animations and Transitions <a href="https://github.com/pachoyan/VueJsCourse/tree/master/14-Adding%20Animations%20and%20Transitions">(Go)</a>
+### 14 - Adding Animations and Transitions <a href="https://github.com/Dasaavawar/VueJS_Course/tree/main/VueJS_14_Adding_Animations_and_Transitions">(Go)</a>
 
 - Lesson 01 - Preparing Code to use Transitions
 - Lesson 02 - Assigning CSS Classes for Transitions
@@ -179,7 +179,7 @@ Thanks to Max for this course. I recommend it if you want to learn vue in detail
 - Mini-App - Teacher Example
 - Monster Slayer with Animations - Teacher Example
 
-### 15 - Connecting to Servers via Http - Using vue-resource <a href="https://github.com/pachoyan/VueJsCourse/tree/master/15-Connecting%20to%20Servers%20via%20Http%20-%20Using%20vue-resource">(Go)</a>
+### 15 - Connecting to Servers via Http - Using vue-resource <a href="https://github.com/Dasaavawar/VueJS_Course/tree/main/VueJS_15_Connecting_to_Servers_via_Http_Using_vue-resource">(Go)</a>
 
 - Lesson 01 - Accessing Http via vue-resource - Setup
 - Lesson 02 - Creating an Application and Setting Up a Server (Firebase)
@@ -192,7 +192,7 @@ Thanks to Max for this course. I recommend it if you want to learn vue in detail
 - Lesson 09 - Creating Custom Resources
 - Lesson 10 - Understanding Template URLs
 
-### 16 - Routing in a VueJS Application <a href="https://github.com/pachoyan/VueJsCourse/tree/master/16-Routing%20in%20a%20VueJS%20Application">(Go)</a>
+### 16 - Routing in a VueJS Application <a href="https://github.com/Dasaavawar/VueJS_Course/tree/main/VueJS_16_Routing_in_a_VueJS_Application">(Go)</a>
 
 - Lesson 01 - Setting up the VueJS Router (vue-router)
 - Lesson 02 - Setting Up and Loading Routes
@@ -219,7 +219,7 @@ Thanks to Max for this course. I recommend it if you want to learn vue in detail
 - Lesson 23 - Using the "beforeLeave" Guard
 - Lesson 24 - Loading Routes Lazily
 
-### 17 - Better State Management with Vuex <a href="https://github.com/pachoyan/VueJsCourse/tree/master/17-Better%20State%20Management%20with%20Vuex">(Go)</a>
+### 17 - Better State Management with Vuex <a href="https://github.com/Dasaavawar/VueJS_Course/tree/main/VueJS_17_Better_State_Management_with_Vuex">(Go)</a>
 
 - Lesson 01 - Using the Centralized State
 - Lesson 02 - Why a Centralized State Alone Won't Fix It
@@ -235,7 +235,6 @@ Thanks to Max for this course. I recommend it if you want to learn vue in detail
 - Lesson 12 - Using Namespaces to Avoid Naming Problems
 - Exercise 01 - Teacher Solution
 
-### 18 - Final Project - The Stock Trader <a href="https://github.com/pachoyan/VueJsCourse/tree/master/17-Better%20State%20Management%20with%20Vuex">(Go)</a>
+### 18 - Final Project - The Stock Trader <a href="https://github.com/Dasaavawar/VueJS_Course/tree/main/VueJS_18_Final_Project_The_Stock_Trader/Project">(Go)</a>
 
 - Project
-
