@@ -10,13 +10,13 @@ Course by: Maximilian Schwarzmüller, Professional Web Developer and Instructor
 Thanks to Max for this course. I recommend it if you want to learn vue in detail, the instructor explains all the content in an excellent way.
 
 
-### 1 - Getting Started  <a href="https://github.com/pachoyan/VueJsCourse/tree/master/1-Getting%20Started">(Go)</a>
+### 1 - Getting Started  <a href="https://github.com/Dasaavawar/VueJS_Course/tree/main/VueJS_01_Getting_Started">(Go)</a>
 
 - 1. Example 01 
 - 2. Example 02
 - 3. Local VueJS
 
-### 2 - Using Vue to interact with the DOM <a href="https://github.com/pachoyan/VueJsCourse/tree/master/2-Using%20Vue%20to%20interact%20with%20the%20DOM">(Go)</a>
+### 2 - Using Vue to interact with the DOM <a href="https://github.com/Dasaavawar/VueJS_Course/tree/main/VueJS_02_Using_Vue_to_interact_with_the_DOM">(Go)</a>
 
 - Lesson 01 - Methods binding
 - Lesson 02 - Accessing Data in the Vue Instance
@@ -43,7 +43,7 @@ Thanks to Max for this course. I recommend it if you want to learn vue in detail
 - Exercise 03 - Watcher and Computed
 - Exercise 04 - Dynamic Styling with CSS
 
-### 3 - Using Conditionals and Rendering Lists <a href="https://github.com/pachoyan/VueJsCourse/tree/master/3-Using%20Conditionals%20and%20Rendering%20Lists">(Go)</a>
+### 3 - Using Conditionals and Rendering Lists <a href="https://github.com/Dasaavawar/VueJS_Course/tree/main/VueJS_03_Using_Conditionals_and_Rendering_Lists">(Go)</a>
 - Lesson 01 - Using Conditionals and Rendering Lists
 - Lesson 02 - Using an Alternative v-if Syntax
 - Lesson 03 - Don't Detach it with v-show
@@ -55,11 +55,11 @@ Thanks to Max for this course. I recommend it if you want to learn vue in detail
 - Lesson 09 - Keeping Track of Elements when using v-for
 - Exercise 01
 
-### 4 - First Course Project - The Monster Slayer <a href="https://github.com/pachoyan/VueJsCourse/tree/master/4-First%20Course%20Project%20-%20The%20Monster%20Slayer">(Go)</a>
+### 4 - First Course Project - The Monster Slayer <a href="https://github.com/Dasaavawar/VueJS_Course/tree/main/VueJS_04_First_Course_Project_The_Monster_Slayer/Setup">(Go)</a>
 
 - Setup
 
-### 5 - Understanding the VueJS Instance <a href="https://github.com/pachoyan/VueJsCourse/tree/master/5-Understanding%20the%20VueJS%20Instance">(Go)</a>
+### 5 - Understanding the VueJS Instance <a href="https://github.com/Dasaavawar/VueJS_Course/tree/main/VueJS_05_Understanding_the_VueJS_Instance">(Go)</a>
  
 - Lesson 01 - Some Basics about the VueJS Instance
 - Lesson 02 - Using Multiple Vue Instance
